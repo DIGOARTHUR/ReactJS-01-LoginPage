@@ -1,4 +1,4 @@
-> Considero este projeto um ponta pé inicial para o mundo ReactJS, o entendimento, compreensão e e o motivo para explorá-lo mais e mais. Mas atenção ! O estudo básico de HTML, CSS e, principalmente, JavaScript facilitará a curva de aprendizado.
+> Considero este projeto um ponta pé inicial para o mundo ReactJS, o entendimento, compreensão e o motivo para explorá-lo mais e mais. Mas atenção ! O estudo básico de HTML, CSS e, principalmente, JavaScript facilitará a curva de aprendizado.
 
 #### FERRAMENTAS:
 <p align="left">
