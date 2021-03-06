@@ -24,11 +24,31 @@
   <p>
    <h2 align="rigth"> <img  alt="skills"  width="35" height="35" src="https://user-images.githubusercontent.com/59892368/110210893-9ec4c800-7e72-11eb-9cde-ef8594d11d40.png"></img>  1. Node JS </h2>
 </p>
+<ul>
+  
+<li>
+  Install Node JS. Link: <a href="https://nodejs.org/en/"> Download </a>
+   <p align="center">
+   <img  alt="gif_"  width="516" height="400" src="https://user-images.githubusercontent.com/59892368/110212765-d08e5c80-7e7b-11eb-98de-a951ecb9f1a4.png"></img>
+</p>
+ 
+  
+</li>
+
+</ul>
+
+
+
 
 <!------------------------------------ 2. React JS -->
  <p>
    <h2 align="rigth"> <img  alt="skills"  width="35" height="35" src="https://user-images.githubusercontent.com/59892368/110185477-3255b480-7df1-11eb-8399-07a57b05eefb.png"></img>  2. React JS </h2>
 </p>
+
+<ul>
+  <li>
+  </li>
+</ul>
 
 
 
