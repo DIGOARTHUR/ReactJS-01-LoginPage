@@ -27,12 +27,17 @@
 <ul>
   
 <li>
-  Install Node JS. Link: <a href="https://nodejs.org/en/"> Download </a>
+  <img  alt="icone_Arquivo"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106370136-08166000-6336-11eb-8327-6fabcd50044a.png"></img> Install Node JS. Link: <a href="https://nodejs.org/en/"> Download </a>
    <p align="center">
    <img  alt="gif_"  width="516" height="400" src="https://user-images.githubusercontent.com/59892368/110212765-d08e5c80-7e7b-11eb-98de-a951ecb9f1a4.png"></img>
 </p>
- 
-  
+</li>
+
+
+<li><img  alt="icone_Arquivo"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106384969-86154e00-63ac-11eb-9c87-ce0e8d227ef6.png"></img> Verify that NodeJS has been installed. Open cmd and type "node -v".
+   <p align="center">
+   <img  alt="gif_"   src="https://user-images.githubusercontent.com/59892368/110221624-077c6680-7eac-11eb-811c-9a7243315374.gif"></img>
+</p>
 </li>
 
 </ul>
