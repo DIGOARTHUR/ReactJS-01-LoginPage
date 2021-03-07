@@ -51,7 +51,7 @@
 </p>
 
 <ul>
-<li><img  alt="icone_Arquivo"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106384969-86154e00-63ac-11eb-9c87-ce0e8d227ef6.png"></img> Create the files structs for the configuration the ReactJS.
+<li><img  alt="icone_Arquivo"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106384969-86154e00-63ac-11eb-9c87-ce0e8d227ef6.png"></img> Create the files structs for the configuration the ReactJS. Wait loading...
    <p align="center">
   
   [![Demo CountPages alpha](https://user-images.githubusercontent.com/59892368/110225299-1884a200-7ec3-11eb-8519-840b92cfdff1.gif)](https://youtu.be/SfPlTnxknSA)
@@ -71,4 +71,6 @@
 </ul>
 
 
+<h1><img  alt="icon_CreatingApplication"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/106508490-37021280-64ab-11eb-81e0-3ca45e0eb38a.png"></img>
+... SOON MORE DOCUMENTATION UPDATES</h1>
 
